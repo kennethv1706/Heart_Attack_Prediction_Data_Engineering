@@ -1,0 +1,303 @@
+age,sex,cp,trtbps,chol,fbs,restecg,thalachh,exng,oldpeak,slp,caa,thall,heart_attack
+63,female,asymptomatic,145,233,True,Normal,150,False,2.3,Sloping,0,Fixed Defect,True
+37,female,non-anginal pain,130,250,False,ST-T Abnormal,187,False,3.5,Sloping,0,Reversible Defect,True
+41,male,atypical angina,130,204,False,Normal,172,False,1.4,Upward Diagnosis,0,Reversible Defect,True
+56,female,atypical angina,120,236,False,ST-T Abnormal,178,False,0.8,Upward Diagnosis,0,Reversible Defect,True
+57,male,typical angina,120,354,False,ST-T Abnormal,163,True,0.6,Upward Diagnosis,0,Reversible Defect,True
+57,female,typical angina,140,192,False,ST-T Abnormal,148,False,0.4,Flat,0,Fixed Defect,True
+56,male,atypical angina,140,294,False,Normal,153,False,1.3,Flat,0,Reversible Defect,True
+44,female,atypical angina,120,263,False,ST-T Abnormal,173,False,0.0,Upward Diagnosis,0,Thalassemia,True
+52,female,non-anginal pain,172,199,True,ST-T Abnormal,162,False,0.5,Upward Diagnosis,0,Thalassemia,True
+57,female,non-anginal pain,150,168,False,ST-T Abnormal,174,False,1.6,Upward Diagnosis,0,Reversible Defect,True
+54,female,typical angina,140,239,False,ST-T Abnormal,160,False,1.2,Upward Diagnosis,0,Reversible Defect,True
+48,male,non-anginal pain,130,275,False,ST-T Abnormal,139,False,0.2,Upward Diagnosis,0,Reversible Defect,True
+49,female,atypical angina,130,266,False,ST-T Abnormal,171,False,0.6,Upward Diagnosis,0,Reversible Defect,True
+64,female,asymptomatic,110,211,False,Normal,144,True,1.8,Flat,0,Reversible Defect,True
+58,male,asymptomatic,150,283,True,Normal,162,False,1.0,Upward Diagnosis,0,Reversible Defect,True
+50,male,non-anginal pain,120,219,False,ST-T Abnormal,158,False,1.6,Flat,0,Reversible Defect,True
+58,male,non-anginal pain,120,340,False,ST-T Abnormal,172,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+66,male,asymptomatic,150,226,False,ST-T Abnormal,114,False,2.6,Sloping,0,Reversible Defect,True
+43,female,typical angina,150,247,False,ST-T Abnormal,171,False,1.5,Upward Diagnosis,0,Reversible Defect,True
+69,male,asymptomatic,140,239,False,ST-T Abnormal,151,False,1.8,Upward Diagnosis,2,Reversible Defect,True
+59,female,typical angina,135,234,False,ST-T Abnormal,161,False,0.5,Flat,0,Thalassemia,True
+44,female,non-anginal pain,130,233,False,ST-T Abnormal,179,True,0.4,Upward Diagnosis,0,Reversible Defect,True
+42,female,typical angina,140,226,False,ST-T Abnormal,178,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+61,female,non-anginal pain,150,243,True,ST-T Abnormal,137,True,1.0,Flat,0,Reversible Defect,True
+40,female,asymptomatic,140,199,False,ST-T Abnormal,178,True,1.4,Upward Diagnosis,0,Thalassemia,True
+71,male,atypical angina,160,302,False,ST-T Abnormal,162,False,0.4,Upward Diagnosis,2,Reversible Defect,True
+59,female,non-anginal pain,150,212,True,ST-T Abnormal,157,False,1.6,Upward Diagnosis,0,Reversible Defect,True
+51,female,non-anginal pain,110,175,False,ST-T Abnormal,123,False,0.6,Upward Diagnosis,0,Reversible Defect,True
+65,male,non-anginal pain,140,417,True,Normal,157,False,0.8,Upward Diagnosis,1,Reversible Defect,True
+53,female,non-anginal pain,130,197,True,Normal,152,False,1.2,Sloping,0,Reversible Defect,True
+41,male,atypical angina,105,198,False,ST-T Abnormal,168,False,0.0,Upward Diagnosis,1,Reversible Defect,True
+65,female,typical angina,120,177,False,ST-T Abnormal,140,False,0.4,Upward Diagnosis,0,Thalassemia,True
+44,female,atypical angina,130,219,False,Normal,188,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+54,female,non-anginal pain,125,273,False,Normal,152,False,0.5,Sloping,1,Reversible Defect,True
+51,female,asymptomatic,125,213,False,Normal,125,True,1.4,Upward Diagnosis,1,Reversible Defect,True
+46,male,non-anginal pain,142,177,False,Normal,160,True,1.4,Sloping,0,Reversible Defect,True
+54,male,non-anginal pain,135,304,True,ST-T Abnormal,170,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+54,female,non-anginal pain,150,232,False,Normal,165,False,1.6,Upward Diagnosis,0,Thalassemia,True
+65,male,non-anginal pain,155,269,False,ST-T Abnormal,148,False,0.8,Upward Diagnosis,0,Reversible Defect,True
+65,male,non-anginal pain,160,360,False,Normal,151,False,0.8,Upward Diagnosis,0,Reversible Defect,True
+51,male,non-anginal pain,140,308,False,Normal,142,False,1.5,Upward Diagnosis,1,Reversible Defect,True
+48,female,atypical angina,130,245,False,Normal,180,False,0.2,Flat,0,Reversible Defect,True
+45,female,typical angina,104,208,False,Normal,148,True,3.0,Flat,0,Reversible Defect,True
+53,male,typical angina,130,264,False,Normal,143,False,0.4,Flat,0,Reversible Defect,True
+39,female,non-anginal pain,140,321,False,Normal,182,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+52,female,atypical angina,120,325,False,ST-T Abnormal,172,False,0.2,Upward Diagnosis,0,Reversible Defect,True
+44,female,non-anginal pain,140,235,False,Normal,180,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+47,female,non-anginal pain,138,257,False,Normal,156,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+53,male,non-anginal pain,128,216,False,Normal,115,False,0.0,Upward Diagnosis,0,None (Normal),True
+53,male,typical angina,138,234,False,Normal,160,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+51,male,non-anginal pain,130,256,False,Normal,149,False,0.5,Upward Diagnosis,0,Reversible Defect,True
+66,female,typical angina,120,302,False,Normal,151,False,0.4,Flat,0,Reversible Defect,True
+62,female,non-anginal pain,130,231,False,ST-T Abnormal,146,False,1.8,Flat,3,Thalassemia,True
+44,male,non-anginal pain,108,141,False,ST-T Abnormal,175,False,0.6,Flat,0,Reversible Defect,True
+63,male,non-anginal pain,135,252,False,Normal,172,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+52,female,atypical angina,134,201,False,ST-T Abnormal,158,False,0.8,Upward Diagnosis,1,Reversible Defect,True
+48,female,typical angina,122,222,False,Normal,186,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+45,female,typical angina,115,260,False,Normal,185,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+34,female,asymptomatic,118,182,False,Normal,174,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+57,male,typical angina,128,303,False,Normal,159,False,0.0,Upward Diagnosis,1,Reversible Defect,True
+71,male,non-anginal pain,110,265,True,Normal,130,False,0.0,Upward Diagnosis,1,Reversible Defect,True
+54,female,atypical angina,108,309,False,ST-T Abnormal,156,False,0.0,Upward Diagnosis,0,Thalassemia,True
+52,female,asymptomatic,118,186,False,Normal,190,False,0.0,Flat,0,Fixed Defect,True
+41,female,atypical angina,135,203,False,ST-T Abnormal,132,False,0.0,Flat,0,Fixed Defect,True
+58,female,non-anginal pain,140,211,True,Normal,165,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+35,male,typical angina,138,183,False,ST-T Abnormal,182,False,1.4,Upward Diagnosis,0,Reversible Defect,True
+51,female,non-anginal pain,100,222,False,ST-T Abnormal,143,True,1.2,Flat,0,Reversible Defect,True
+45,male,atypical angina,130,234,False,Normal,175,False,0.6,Flat,0,Reversible Defect,True
+44,female,atypical angina,120,220,False,ST-T Abnormal,170,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+62,male,typical angina,124,209,False,ST-T Abnormal,163,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+54,female,non-anginal pain,120,258,False,Normal,147,False,0.4,Flat,0,Thalassemia,True
+51,female,non-anginal pain,94,227,False,ST-T Abnormal,154,True,0.0,Upward Diagnosis,1,Thalassemia,True
+29,female,atypical angina,130,204,False,Normal,202,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+51,female,typical angina,140,261,False,Normal,186,True,0.0,Upward Diagnosis,0,Reversible Defect,True
+43,male,non-anginal pain,122,213,False,ST-T Abnormal,165,False,0.2,Flat,0,Reversible Defect,True
+55,male,atypical angina,135,250,False,Normal,161,False,1.4,Flat,0,Reversible Defect,True
+51,female,non-anginal pain,125,245,True,Normal,166,False,2.4,Flat,0,Reversible Defect,True
+59,female,atypical angina,140,221,False,ST-T Abnormal,164,True,0.0,Upward Diagnosis,0,Reversible Defect,True
+52,female,atypical angina,128,205,True,ST-T Abnormal,184,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+58,female,non-anginal pain,105,240,False,Normal,154,True,0.6,Flat,0,Thalassemia,True
+41,female,non-anginal pain,112,250,False,ST-T Abnormal,179,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+45,female,atypical angina,128,308,False,Normal,170,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+60,male,non-anginal pain,102,318,False,ST-T Abnormal,160,False,0.0,Upward Diagnosis,1,Reversible Defect,True
+52,female,asymptomatic,152,298,True,ST-T Abnormal,178,False,1.2,Flat,0,Thalassemia,True
+42,male,typical angina,102,265,False,Normal,122,False,0.6,Flat,0,Reversible Defect,True
+67,male,non-anginal pain,115,564,False,Normal,160,False,1.6,Flat,0,Thalassemia,True
+68,female,non-anginal pain,118,277,False,ST-T Abnormal,151,False,1.0,Upward Diagnosis,1,Thalassemia,True
+46,female,atypical angina,101,197,True,ST-T Abnormal,156,False,0.0,Upward Diagnosis,0,Thalassemia,True
+54,male,non-anginal pain,110,214,False,ST-T Abnormal,158,False,1.6,Flat,0,Reversible Defect,True
+58,male,typical angina,100,248,False,Normal,122,False,1.0,Flat,0,Reversible Defect,True
+48,female,non-anginal pain,124,255,True,ST-T Abnormal,175,False,0.0,Upward Diagnosis,2,Reversible Defect,True
+57,female,typical angina,132,207,False,ST-T Abnormal,168,True,0.0,Upward Diagnosis,0,Thalassemia,True
+52,female,non-anginal pain,138,223,False,ST-T Abnormal,169,False,0.0,Upward Diagnosis,4,Reversible Defect,True
+54,male,atypical angina,132,288,True,Normal,159,True,0.0,Upward Diagnosis,1,Reversible Defect,True
+45,male,atypical angina,112,160,False,ST-T Abnormal,138,False,0.0,Flat,0,Reversible Defect,True
+53,female,typical angina,142,226,False,Normal,111,True,0.0,Upward Diagnosis,0,Thalassemia,True
+62,male,typical angina,140,394,False,Normal,157,False,1.2,Flat,0,Reversible Defect,True
+52,female,typical angina,108,233,True,ST-T Abnormal,147,False,0.1,Upward Diagnosis,3,Thalassemia,True
+43,female,non-anginal pain,130,315,False,ST-T Abnormal,162,False,1.9,Upward Diagnosis,1,Reversible Defect,True
+53,female,non-anginal pain,130,246,True,Normal,173,False,0.0,Upward Diagnosis,3,Reversible Defect,True
+42,female,asymptomatic,148,244,False,Normal,178,False,0.8,Upward Diagnosis,2,Reversible Defect,True
+59,female,asymptomatic,178,270,False,Normal,145,False,4.2,Sloping,0,Thalassemia,True
+63,male,atypical angina,140,195,False,ST-T Abnormal,179,False,0.0,Upward Diagnosis,2,Reversible Defect,True
+42,female,non-anginal pain,120,240,True,ST-T Abnormal,194,False,0.8,Sloping,0,Thalassemia,True
+50,female,non-anginal pain,129,196,False,ST-T Abnormal,163,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+68,male,non-anginal pain,120,211,False,Normal,115,False,1.5,Flat,0,Reversible Defect,True
+69,female,asymptomatic,160,234,True,Normal,131,False,0.1,Flat,1,Reversible Defect,True
+45,male,typical angina,138,236,False,Normal,152,True,0.2,Flat,0,Reversible Defect,True
+50,male,atypical angina,120,244,False,ST-T Abnormal,162,False,1.1,Upward Diagnosis,0,Reversible Defect,True
+50,male,typical angina,110,254,False,Normal,159,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+64,male,typical angina,180,325,False,ST-T Abnormal,154,True,0.0,Upward Diagnosis,0,Reversible Defect,True
+57,female,non-anginal pain,150,126,True,ST-T Abnormal,173,False,0.2,Upward Diagnosis,1,Thalassemia,True
+64,male,non-anginal pain,140,313,False,ST-T Abnormal,133,False,0.2,Upward Diagnosis,0,Thalassemia,True
+43,female,typical angina,110,211,False,ST-T Abnormal,161,False,0.0,Upward Diagnosis,0,Thalassemia,True
+55,female,atypical angina,130,262,False,ST-T Abnormal,155,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+37,male,non-anginal pain,120,215,False,ST-T Abnormal,170,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+41,female,non-anginal pain,130,214,False,Normal,168,False,2.0,Flat,0,Reversible Defect,True
+56,female,asymptomatic,120,193,False,Normal,162,False,1.9,Flat,0,Thalassemia,True
+46,male,atypical angina,105,204,False,ST-T Abnormal,172,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+46,male,typical angina,138,243,False,Normal,152,True,0.0,Flat,0,Reversible Defect,True
+64,male,typical angina,130,303,False,ST-T Abnormal,122,False,2.0,Flat,2,Reversible Defect,True
+59,female,typical angina,138,271,False,Normal,182,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+41,male,non-anginal pain,112,268,False,Normal,172,True,0.0,Upward Diagnosis,0,Reversible Defect,True
+54,male,non-anginal pain,108,267,False,Normal,167,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+39,male,non-anginal pain,94,199,False,ST-T Abnormal,179,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+34,male,atypical angina,118,210,False,ST-T Abnormal,192,False,0.7,Upward Diagnosis,0,Reversible Defect,True
+47,female,typical angina,112,204,False,ST-T Abnormal,143,False,0.1,Upward Diagnosis,0,Reversible Defect,True
+67,male,non-anginal pain,152,277,False,ST-T Abnormal,172,False,0.0,Upward Diagnosis,1,Reversible Defect,True
+52,male,non-anginal pain,136,196,False,Normal,169,False,0.1,Flat,0,Reversible Defect,True
+74,male,atypical angina,120,269,False,Normal,121,True,0.2,Upward Diagnosis,1,Reversible Defect,True
+54,male,non-anginal pain,160,201,False,ST-T Abnormal,163,False,0.0,Upward Diagnosis,1,Reversible Defect,True
+49,male,atypical angina,134,271,False,ST-T Abnormal,162,False,0.0,Flat,0,Reversible Defect,True
+42,female,atypical angina,120,295,False,ST-T Abnormal,162,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+41,female,atypical angina,110,235,False,ST-T Abnormal,153,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+41,male,atypical angina,126,306,False,ST-T Abnormal,163,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+49,male,typical angina,130,269,False,ST-T Abnormal,163,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+60,male,non-anginal pain,120,178,True,ST-T Abnormal,96,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+62,female,atypical angina,128,208,True,Normal,140,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+57,female,typical angina,110,201,False,ST-T Abnormal,126,True,1.5,Flat,0,Fixed Defect,True
+64,female,typical angina,128,263,False,ST-T Abnormal,105,True,0.2,Flat,1,Thalassemia,True
+51,male,non-anginal pain,120,295,False,Normal,157,False,0.6,Upward Diagnosis,0,Reversible Defect,True
+43,female,typical angina,115,303,False,ST-T Abnormal,181,False,1.2,Flat,0,Reversible Defect,True
+42,male,non-anginal pain,120,209,False,ST-T Abnormal,173,False,0.0,Flat,0,Reversible Defect,True
+67,male,typical angina,106,223,False,ST-T Abnormal,142,False,0.3,Upward Diagnosis,2,Reversible Defect,True
+76,male,non-anginal pain,140,197,False,LVH,116,False,1.1,Flat,0,Reversible Defect,True
+70,female,atypical angina,156,245,False,Normal,143,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+44,male,non-anginal pain,118,242,False,ST-T Abnormal,149,False,0.3,Flat,1,Reversible Defect,True
+60,male,asymptomatic,150,240,False,ST-T Abnormal,171,False,0.9,Upward Diagnosis,0,Reversible Defect,True
+44,female,non-anginal pain,120,226,False,ST-T Abnormal,169,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+42,female,non-anginal pain,130,180,False,ST-T Abnormal,150,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+66,female,typical angina,160,228,False,Normal,138,False,2.3,Upward Diagnosis,0,Fixed Defect,True
+71,male,typical angina,112,149,False,ST-T Abnormal,125,False,1.6,Flat,0,Reversible Defect,True
+64,female,asymptomatic,170,227,False,Normal,155,False,0.6,Flat,0,Thalassemia,True
+66,male,non-anginal pain,146,278,False,Normal,152,False,0.0,Flat,1,Reversible Defect,True
+39,male,non-anginal pain,138,220,False,ST-T Abnormal,152,False,0.0,Flat,0,Reversible Defect,True
+58,male,typical angina,130,197,False,ST-T Abnormal,131,False,0.6,Flat,0,Reversible Defect,True
+47,female,non-anginal pain,130,253,False,ST-T Abnormal,179,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+35,female,atypical angina,122,192,False,ST-T Abnormal,174,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+58,female,atypical angina,125,220,False,ST-T Abnormal,144,False,0.4,Flat,4,Thalassemia,True
+56,female,atypical angina,130,221,False,Normal,163,False,0.0,Upward Diagnosis,0,Thalassemia,True
+56,female,atypical angina,120,240,False,ST-T Abnormal,169,False,0.0,Sloping,0,Reversible Defect,True
+55,male,atypical angina,132,342,False,ST-T Abnormal,166,False,1.2,Upward Diagnosis,0,Reversible Defect,True
+41,female,atypical angina,120,157,False,ST-T Abnormal,182,False,0.0,Upward Diagnosis,0,Reversible Defect,True
+38,female,non-anginal pain,138,175,False,ST-T Abnormal,173,False,0.0,Upward Diagnosis,4,Reversible Defect,True
+67,female,typical angina,160,286,False,Normal,108,True,1.5,Flat,3,Reversible Defect,False
+67,female,typical angina,120,229,False,Normal,129,True,2.6,Flat,2,Thalassemia,False
+62,male,typical angina,140,268,False,Normal,160,False,3.6,Sloping,2,Reversible Defect,False
+63,female,typical angina,130,254,False,Normal,147,False,1.4,Flat,1,Thalassemia,False
+53,female,typical angina,140,203,True,Normal,155,True,3.1,Sloping,0,Thalassemia,False
+56,female,non-anginal pain,130,256,True,Normal,142,True,0.6,Flat,1,Fixed Defect,False
+48,female,atypical angina,110,229,False,ST-T Abnormal,168,False,1.0,Sloping,0,Thalassemia,False
+58,female,atypical angina,120,284,False,Normal,160,False,1.8,Flat,0,Reversible Defect,False
+58,female,non-anginal pain,132,224,False,Normal,173,False,3.2,Upward Diagnosis,2,Thalassemia,False
+60,female,typical angina,130,206,False,Normal,132,True,2.4,Flat,2,Thalassemia,False
+40,female,typical angina,110,167,False,Normal,114,True,2.0,Flat,0,Thalassemia,False
+60,female,typical angina,117,230,True,ST-T Abnormal,160,True,1.4,Upward Diagnosis,2,Thalassemia,False
+64,female,non-anginal pain,140,335,False,ST-T Abnormal,158,False,0.0,Upward Diagnosis,0,Reversible Defect,False
+43,female,typical angina,120,177,False,Normal,120,True,2.5,Flat,0,Thalassemia,False
+57,female,typical angina,150,276,False,Normal,112,True,0.6,Flat,1,Fixed Defect,False
+55,female,typical angina,132,353,False,ST-T Abnormal,132,True,1.2,Flat,1,Thalassemia,False
+65,male,typical angina,150,225,False,Normal,114,False,1.0,Flat,3,Thalassemia,False
+61,male,typical angina,130,330,False,Normal,169,False,0.0,Upward Diagnosis,0,Reversible Defect,False
+58,female,non-anginal pain,112,230,False,Normal,165,False,2.5,Flat,1,Thalassemia,False
+50,female,typical angina,150,243,False,Normal,128,False,2.6,Flat,0,Thalassemia,False
+44,female,typical angina,112,290,False,Normal,153,False,0.0,Upward Diagnosis,1,Reversible Defect,False
+60,female,typical angina,130,253,False,ST-T Abnormal,144,True,1.4,Upward Diagnosis,1,Thalassemia,False
+54,female,typical angina,124,266,False,Normal,109,True,2.2,Flat,1,Thalassemia,False
+50,female,non-anginal pain,140,233,False,ST-T Abnormal,163,False,0.6,Flat,1,Thalassemia,False
+41,female,typical angina,110,172,False,Normal,158,False,0.0,Upward Diagnosis,0,Thalassemia,False
+51,male,typical angina,130,305,False,ST-T Abnormal,142,True,1.2,Flat,0,Thalassemia,False
+58,female,typical angina,128,216,False,Normal,131,True,2.2,Flat,3,Thalassemia,False
+54,female,typical angina,120,188,False,ST-T Abnormal,113,False,1.4,Flat,1,Thalassemia,False
+60,female,typical angina,145,282,False,Normal,142,True,2.8,Flat,2,Thalassemia,False
+60,female,non-anginal pain,140,185,False,Normal,155,False,3.0,Flat,0,Reversible Defect,False
+59,female,typical angina,170,326,False,Normal,140,True,3.4,Sloping,0,Thalassemia,False
+46,female,non-anginal pain,150,231,False,ST-T Abnormal,147,False,3.6,Flat,0,Reversible Defect,False
+67,female,typical angina,125,254,True,ST-T Abnormal,163,False,0.2,Flat,2,Thalassemia,False
+62,female,typical angina,120,267,False,ST-T Abnormal,99,True,1.8,Flat,2,Thalassemia,False
+65,female,typical angina,110,248,False,Normal,158,False,0.6,Upward Diagnosis,2,Fixed Defect,False
+44,female,typical angina,110,197,False,Normal,177,False,0.0,Upward Diagnosis,1,Reversible Defect,False
+60,female,typical angina,125,258,False,Normal,141,True,2.8,Flat,1,Thalassemia,False
+58,female,typical angina,150,270,False,Normal,111,True,0.8,Upward Diagnosis,0,Thalassemia,False
+68,female,non-anginal pain,180,274,True,Normal,150,True,1.6,Flat,0,Thalassemia,False
+62,male,typical angina,160,164,False,Normal,145,False,6.2,Sloping,3,Thalassemia,False
+52,female,typical angina,128,255,False,ST-T Abnormal,161,True,0.0,Upward Diagnosis,1,Thalassemia,False
+59,female,typical angina,110,239,False,Normal,142,True,1.2,Flat,1,Thalassemia,False
+60,male,typical angina,150,258,False,Normal,157,False,2.6,Flat,2,Thalassemia,False
+49,female,non-anginal pain,120,188,False,ST-T Abnormal,139,False,2.0,Flat,3,Thalassemia,False
+59,female,typical angina,140,177,False,ST-T Abnormal,162,True,0.0,Upward Diagnosis,1,Thalassemia,False
+57,female,non-anginal pain,128,229,False,Normal,150,False,0.4,Flat,1,Thalassemia,False
+61,female,typical angina,120,260,False,ST-T Abnormal,140,True,3.6,Flat,1,Thalassemia,False
+39,female,typical angina,118,219,False,ST-T Abnormal,140,False,1.2,Flat,0,Thalassemia,False
+61,male,typical angina,145,307,False,Normal,146,True,1.0,Flat,0,Thalassemia,False
+56,female,typical angina,125,249,True,Normal,144,True,1.2,Flat,1,Reversible Defect,False
+43,male,typical angina,132,341,True,Normal,136,True,3.0,Flat,0,Thalassemia,False
+62,male,non-anginal pain,130,263,False,ST-T Abnormal,97,False,1.2,Flat,1,Thalassemia,False
+63,female,typical angina,130,330,True,Normal,132,True,1.8,Upward Diagnosis,3,Thalassemia,False
+65,female,typical angina,135,254,False,Normal,127,False,2.8,Flat,1,Thalassemia,False
+48,female,typical angina,130,256,True,Normal,150,True,0.0,Upward Diagnosis,2,Thalassemia,False
+63,male,typical angina,150,407,False,Normal,154,False,4.0,Flat,3,Thalassemia,False
+55,female,typical angina,140,217,False,ST-T Abnormal,111,True,5.6,Sloping,0,Thalassemia,False
+65,female,asymptomatic,138,282,True,Normal,174,False,1.4,Flat,1,Reversible Defect,False
+56,male,typical angina,200,288,True,Normal,133,True,4.0,Sloping,2,Thalassemia,False
+54,female,typical angina,110,239,False,ST-T Abnormal,126,True,2.8,Flat,1,Thalassemia,False
+70,female,typical angina,145,174,False,ST-T Abnormal,125,True,2.6,Sloping,0,Thalassemia,False
+62,female,atypical angina,120,281,False,Normal,103,False,1.4,Flat,1,Thalassemia,False
+35,female,typical angina,120,198,False,ST-T Abnormal,130,True,1.6,Flat,0,Thalassemia,False
+59,female,asymptomatic,170,288,False,Normal,159,False,0.2,Flat,0,Thalassemia,False
+64,female,non-anginal pain,125,309,False,ST-T Abnormal,131,True,1.8,Flat,0,Thalassemia,False
+47,female,non-anginal pain,108,243,False,ST-T Abnormal,152,False,0.0,Upward Diagnosis,0,Reversible Defect,False
+57,female,typical angina,165,289,True,Normal,124,False,1.0,Flat,3,Thalassemia,False
+55,female,typical angina,160,289,False,Normal,145,True,0.8,Flat,1,Thalassemia,False
+64,female,typical angina,120,246,False,Normal,96,True,2.2,Sloping,1,Reversible Defect,False
+70,female,typical angina,130,322,False,Normal,109,False,2.4,Flat,3,Reversible Defect,False
+51,female,typical angina,140,299,False,ST-T Abnormal,173,True,1.6,Upward Diagnosis,0,Thalassemia,False
+58,female,typical angina,125,300,False,Normal,171,False,0.0,Upward Diagnosis,2,Thalassemia,False
+60,female,typical angina,140,293,False,Normal,170,False,1.2,Flat,2,Thalassemia,False
+77,female,typical angina,125,304,False,Normal,162,True,0.0,Upward Diagnosis,3,Reversible Defect,False
+35,female,typical angina,126,282,False,Normal,156,True,0.0,Upward Diagnosis,0,Thalassemia,False
+70,female,non-anginal pain,160,269,False,ST-T Abnormal,112,True,2.9,Flat,1,Thalassemia,False
+59,male,typical angina,174,249,False,ST-T Abnormal,143,True,0.0,Flat,0,Reversible Defect,False
+64,female,typical angina,145,212,False,Normal,132,False,2.0,Flat,2,Fixed Defect,False
+57,female,typical angina,152,274,False,ST-T Abnormal,88,True,1.2,Flat,1,Thalassemia,False
+56,female,typical angina,132,184,False,Normal,105,True,2.1,Flat,1,Fixed Defect,False
+48,female,typical angina,124,274,False,Normal,166,False,0.5,Flat,0,Thalassemia,False
+56,male,typical angina,134,409,False,Normal,150,True,1.9,Flat,2,Thalassemia,False
+66,female,atypical angina,160,246,False,ST-T Abnormal,120,True,0.0,Flat,3,Fixed Defect,False
+54,female,atypical angina,192,283,False,Normal,195,False,0.0,Upward Diagnosis,1,Thalassemia,False
+69,female,non-anginal pain,140,254,False,Normal,146,False,2.0,Flat,3,Thalassemia,False
+51,female,typical angina,140,298,False,ST-T Abnormal,122,True,4.2,Flat,3,Thalassemia,False
+43,female,typical angina,132,247,True,Normal,143,True,0.1,Flat,4,Thalassemia,False
+62,male,typical angina,138,294,True,ST-T Abnormal,106,False,1.9,Flat,3,Reversible Defect,False
+67,female,typical angina,100,299,False,Normal,125,True,0.9,Flat,2,Reversible Defect,False
+59,female,asymptomatic,160,273,False,Normal,125,False,0.0,Upward Diagnosis,0,Reversible Defect,False
+45,female,typical angina,142,309,False,Normal,147,True,0.0,Flat,3,Thalassemia,False
+58,female,typical angina,128,259,False,Normal,130,True,3.0,Flat,2,Thalassemia,False
+50,female,typical angina,144,200,False,Normal,126,True,0.9,Flat,0,Thalassemia,False
+62,male,typical angina,150,244,False,ST-T Abnormal,154,True,1.4,Flat,0,Reversible Defect,False
+38,female,asymptomatic,120,231,False,ST-T Abnormal,182,True,3.8,Flat,0,Thalassemia,False
+66,male,typical angina,178,228,True,ST-T Abnormal,165,True,1.0,Flat,2,Thalassemia,False
+52,female,typical angina,112,230,False,ST-T Abnormal,160,False,0.0,Upward Diagnosis,1,Reversible Defect,False
+53,female,typical angina,123,282,False,ST-T Abnormal,95,True,2.0,Flat,2,Thalassemia,False
+63,male,typical angina,108,269,False,ST-T Abnormal,169,True,1.8,Flat,2,Reversible Defect,False
+54,female,typical angina,110,206,False,Normal,108,True,0.0,Flat,1,Reversible Defect,False
+66,female,typical angina,112,212,False,Normal,132,True,0.1,Upward Diagnosis,1,Reversible Defect,False
+55,male,typical angina,180,327,False,LVH,117,True,3.4,Flat,0,Reversible Defect,False
+49,female,non-anginal pain,118,149,False,Normal,126,False,0.8,Upward Diagnosis,3,Reversible Defect,False
+54,female,typical angina,122,286,False,Normal,116,True,3.2,Flat,2,Reversible Defect,False
+56,female,typical angina,130,283,True,Normal,103,True,1.6,Sloping,0,Thalassemia,False
+46,female,typical angina,120,249,False,Normal,144,False,0.8,Upward Diagnosis,0,Thalassemia,False
+61,female,asymptomatic,134,234,False,ST-T Abnormal,145,False,2.6,Flat,2,Reversible Defect,False
+67,female,typical angina,120,237,False,ST-T Abnormal,71,False,1.0,Flat,0,Reversible Defect,False
+58,female,typical angina,100,234,False,ST-T Abnormal,156,False,0.1,Upward Diagnosis,1,Thalassemia,False
+47,female,typical angina,110,275,False,Normal,118,True,1.0,Flat,1,Reversible Defect,False
+52,female,typical angina,125,212,False,ST-T Abnormal,168,False,1.0,Upward Diagnosis,2,Thalassemia,False
+58,female,typical angina,146,218,False,ST-T Abnormal,105,False,2.0,Flat,1,Thalassemia,False
+57,female,atypical angina,124,261,False,ST-T Abnormal,141,False,0.3,Upward Diagnosis,0,Thalassemia,False
+58,male,atypical angina,136,319,True,Normal,152,False,0.0,Upward Diagnosis,2,Reversible Defect,False
+61,female,typical angina,138,166,False,Normal,125,True,3.6,Flat,1,Reversible Defect,False
+42,female,typical angina,136,315,False,ST-T Abnormal,125,True,1.8,Flat,0,Fixed Defect,False
+52,female,typical angina,128,204,True,ST-T Abnormal,156,True,1.0,Flat,0,None (Normal),False
+59,female,non-anginal pain,126,218,True,ST-T Abnormal,134,False,2.2,Flat,1,Fixed Defect,False
+40,female,typical angina,152,223,False,ST-T Abnormal,181,False,0.0,Upward Diagnosis,0,Thalassemia,False
+61,female,typical angina,140,207,False,Normal,138,True,1.9,Upward Diagnosis,1,Thalassemia,False
+46,female,typical angina,140,311,False,ST-T Abnormal,120,True,1.8,Flat,2,Thalassemia,False
+59,female,asymptomatic,134,204,False,ST-T Abnormal,162,False,0.8,Upward Diagnosis,2,Reversible Defect,False
+57,female,atypical angina,154,232,False,Normal,164,False,0.0,Upward Diagnosis,1,Reversible Defect,False
+57,female,typical angina,110,335,False,ST-T Abnormal,143,True,3.0,Flat,1,Thalassemia,False
+55,male,typical angina,128,205,False,LVH,130,True,2.0,Flat,1,Thalassemia,False
+61,female,typical angina,148,203,False,ST-T Abnormal,161,False,0.0,Upward Diagnosis,1,Thalassemia,False
+58,female,typical angina,114,318,False,LVH,140,False,4.4,Sloping,3,Fixed Defect,False
+58,male,typical angina,170,225,True,Normal,146,True,2.8,Flat,2,Fixed Defect,False
+67,female,non-anginal pain,152,212,False,Normal,150,False,0.8,Flat,0,Thalassemia,False
+44,female,typical angina,120,169,False,ST-T Abnormal,144,True,2.8,Sloping,0,Fixed Defect,False
+63,female,typical angina,140,187,False,Normal,144,True,4.0,Upward Diagnosis,2,Thalassemia,False
+63,male,typical angina,124,197,False,ST-T Abnormal,136,True,0.0,Flat,0,Reversible Defect,False
+59,female,typical angina,164,176,True,Normal,90,False,1.0,Flat,2,Fixed Defect,False
+57,male,typical angina,140,241,False,ST-T Abnormal,123,True,0.2,Flat,0,Thalassemia,False
+45,female,asymptomatic,110,264,False,ST-T Abnormal,132,False,1.2,Flat,0,Thalassemia,False
+68,female,typical angina,144,193,True,ST-T Abnormal,141,False,3.4,Flat,2,Thalassemia,False
+57,female,typical angina,130,131,False,ST-T Abnormal,115,True,1.2,Flat,1,Thalassemia,False
+57,male,atypical angina,130,236,False,Normal,174,False,0.0,Flat,1,Reversible Defect,False
